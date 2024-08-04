@@ -1,0 +1,33 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 30px;
+    padding-top: 120px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+ background-image: url("fondo2.jpg");
+       
+
+}
+
+.texto{
+font-size: 30px;
+padding-top: 120;
+text-align: justify;
+color: rgb(241, 241, 241);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    font-size: 60px;
+    color: rgb(253, 253, 253);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
